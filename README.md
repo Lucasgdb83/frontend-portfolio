@@ -1,33 +1,48 @@
 # Frontend Portfolio
 
-Welcome to my **Frontend Portfolio** — a personal website being built with **HTML**, **CSS**, and frontend skills to showcase my work as a software engineering student.
+Welcome to my **Frontend Portfolio** — a personal website built with HTML and CSS to showcase my development progress as a Software Engineering student.
+
+---
 
 ## 🚀 Project Overview
 
 This is a responsive portfolio website that includes:
 
-- A home section with an introduction
+- Home section with introduction
 - About section
 - Education timeline
 - Skills and experience sections
 - Contact section
 
-It’s designed to give visitors a snapshot of who I am and what I’m learning as a frontend developer.
+The goal is to provide a clear overview of my background, current studies, and technical development.
 
-## 💡 Why This Project
+---
+
+## 💡 Purpose
 
 This project was created to:
 
-- Demonstrate frontend development fundamentals.
-- Practice layout, styling, and responsive design.
-- Serve as part of my developer portfolio.
+- Demonstrate core frontend development fundamentals  
+- Practice responsive layout and styling techniques  
+- Build a professional online presence  
+- Track my growth as a developer  
+
+---
 
 ## 🛠 Technologies Used
 
-The portfolio is built using:
+- **HTML5** – Semantic structure  
+- **CSS3** – Layout, styling, and responsiveness  
 
-- **HTML5** – structure of the content
-- **CSS3** – styling and layout
-- (Future improvements planned: JavaScript for interaction)
+Future improvements will include adding JavaScript for interactivity and enhanced user experience.
+
+---
 
 ## 🖼 Project Structure
+```
+frontend-portfolio/
+│
+├── index.html
+├── style.css
+└── images/
+```
