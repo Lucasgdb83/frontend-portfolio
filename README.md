@@ -1,6 +1,6 @@
 # Frontend Portfolio
 
-Welcome to my **Frontend Portfolio** — a personal website built with **HTML**, **CSS**, and basic frontend skills to showcase my work as a software engineering student.
+Welcome to my **Frontend Portfolio** — a personal website built with **HTML**, **CSS**, and frontend skills to showcase my work as a software engineering student.
 
 ## 🚀 Project Overview
 
